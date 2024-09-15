@@ -1,0 +1,1 @@
+Script to get audit details on a json file. Delete the .template from the config after you set your keys. I used it with a audit CSV retrieved from SSIS. You can fetch it directly from the Python script if needed.
