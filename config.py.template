@@ -1,0 +1,5 @@
+client_id = 'x' # Get all this info from Azure Aplication
+client_secret = 'x'
+tenant_id = 'x'
+authority_url = 'https://login.microsoftonline.com/x'
+resource_url = 'https://x.crm4.dynamics.com'
